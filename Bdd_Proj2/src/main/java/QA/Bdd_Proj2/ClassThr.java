@@ -8,5 +8,6 @@ public static void main(String args[])
 	System.out.println("Going to Eclipse");
 	System.out.println("Going to github");
 	System.out.println("Bye");
+	System.out.println("HAPPY");
 }
 }
